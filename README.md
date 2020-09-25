@@ -53,6 +53,10 @@ Link: https://drive.google.com/drive/folders/1XDte2DL2Mf_hw4NsmGst7QtYoU7sMBVG
 
 Link: https://drive.google.com/file/d/16uMH4YwdkA8sdnMlJNE7nv_tBJkX5eNe/view
 
+# Final Output:
+
+Link for a Video on YouTube: https://youtu.be/9rVi1bgst54
+
 # Credits
 
 https://www.mygreatlearning.com/blog/real-time-face-detection/#sh1
