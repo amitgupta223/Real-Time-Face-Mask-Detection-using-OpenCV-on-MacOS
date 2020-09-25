@@ -1,5 +1,5 @@
 # Real-Time-Face-Mask-Detection-using-OpenCV-on-MacOS
-Going to use OpenCV to do real-time face mask detection from a live stream via our webcam.
+Going to use OpenCV to do real-time face mask detection from a live stream via our webcam on MacOS.
 
 # Mask Detection using MobilenetV2
 
