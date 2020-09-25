@@ -15,10 +15,6 @@ Keras: https://keras.io/
 
 TensorFlow: https://www.tensorflow.org/
 
-# Pretrained Model
-
-Link: https://drive.google.com/file/d/16uMH4YwdkA8sdnMlJNE7nv_tBJkX5eNe/view
-
 # DataSet: 
 
 This dataset consists of 3835 images belonging to two classes:
@@ -27,11 +23,12 @@ with_mask: 1916 images
 without_mask: 1919 images
 The images used were real images of faces wearing masks. The images were collected from the following sources:
 
-Bing Search API (See Python script)
-Kaggle datasets
-RMFD dataset (See here)
-
 Link: https://drive.google.com/drive/folders/1XDte2DL2Mf_hw4NsmGst7QtYoU7sMBVG
+
+
+# Pretrained Model
+
+Link: https://drive.google.com/file/d/16uMH4YwdkA8sdnMlJNE7nv_tBJkX5eNe/view
 
 # Credits
 
