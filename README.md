@@ -15,11 +15,15 @@ Keras: https://keras.io/
 
 TensorFlow: https://www.tensorflow.org/
 
-Pretrained Model: https://drive.google.com/file/d/16uMH4YwdkA8sdnMlJNE7nv_tBJkX5eNe/view
+# Pretrained Model
 
-DataSet: https://drive.google.com/drive/folders/1XDte2DL2Mf_hw4NsmGst7QtYoU7sMBVG
+Link: https://drive.google.com/file/d/16uMH4YwdkA8sdnMlJNE7nv_tBJkX5eNe/view
 
-Credits
+# DataSet: 
+
+Link: https://drive.google.com/drive/folders/1XDte2DL2Mf_hw4NsmGst7QtYoU7sMBVG
+
+# Credits
 
 https://www.mygreatlearning.com/blog/real-time-face-detection/#sh1
 
