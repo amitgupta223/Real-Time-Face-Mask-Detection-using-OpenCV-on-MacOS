@@ -15,6 +15,12 @@ Keras: https://keras.io/
 
 TensorFlow: https://www.tensorflow.org/
 
+# Haarcascade classifiers: 
+
+Haar Cascade is a machine learning object detection algorithm used to identify objects in an image or video and based on the concept of features proposed by Paul Viola and Michael Jones in their paper "Rapid Object Detection using a Boosted Cascade of Simple Features" in 2001.
+
+Link: https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html
+
 # DataSet: 
 
 This dataset consists of 3835 images belonging to two classes:
