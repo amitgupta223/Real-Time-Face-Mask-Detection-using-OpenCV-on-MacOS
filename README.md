@@ -3,12 +3,17 @@ Going to use OpenCV to do real-time face mask detection from a live stream via m
 
 # How to Access Webcam on MacOS
 
-Create a virtual Environment on MacOS by just opening Terminal
+Create a virtual Environment on MacOS by just opening Terminal and then just run this command: 'source work/bin/activate' to activate virtual environment.
+And then put the all necessary file in that work directory to run the python file to access webcam.
 
 python3.7 -m venv work
+
 source work/bin/activate
+
 pip install opencv-python
+
 print ("OpenCV Version:" )
+
 print(cv2.__version__)
 
 Link: https://www.youtube.com/watch?v=nO3csmVyoOQ
