@@ -8,8 +8,11 @@ In the present scenario due to Covid-19, there is no efficient face mask detecti
 Technology Used
 
 OpenCV: https://opencv.org/
+
 MobileNetV2: https://arxiv.org/abs/1801.04381
+
 Keras: https://keras.io/
+
 TensorFlow: https://www.tensorflow.org/
 
 Pretrained Model: https://drive.google.com/file/d/16uMH4YwdkA8sdnMlJNE7nv_tBJkX5eNe/view
@@ -19,6 +22,10 @@ DataSet: https://drive.google.com/drive/folders/1XDte2DL2Mf_hw4NsmGst7QtYoU7sMBV
 Credits
 
 https://www.mygreatlearning.com/blog/real-time-face-detection/#sh1
+
 https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/README.md
+
 https://www.kaggle.com/mirzamujtaba/face-mask-detection
+
 https://www.mygreatlearning.com/blog/facial-recognition-using-python/
+
