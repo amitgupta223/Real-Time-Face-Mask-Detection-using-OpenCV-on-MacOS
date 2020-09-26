@@ -55,9 +55,7 @@ Link: https://drive.google.com/file/d/16uMH4YwdkA8sdnMlJNE7nv_tBJkX5eNe/view
 
 # Final Output:
 
-[![Watch the video](<iframe src="//gifs.com/embed/real-time-face-mask-detection-GvlZMQ" frameborder="0" scrolling="no" width="640px" height="360px" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);"></iframe>)]
-
-Link for a Video on YouTube: https://youtu.be/9rVi1bgst54
+[![Watch the video](https://j.gifs.com/GvlZMQ.gif)]
 
 # Credits
 
