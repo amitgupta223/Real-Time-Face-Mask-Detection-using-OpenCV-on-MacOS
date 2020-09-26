@@ -55,7 +55,7 @@ Link: https://drive.google.com/file/d/16uMH4YwdkA8sdnMlJNE7nv_tBJkX5eNe/view
 
 # Final Output:
 
-[![Watch the video(https://j.gifs.com/GvlZMQ.gif)
+[![Watch the video](https://j.gifs.com/GvlZMQ.gif)]
 
 # Credits
 
